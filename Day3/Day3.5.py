@@ -41,7 +41,7 @@ y = int(f"{a}{b}")
 if y < 10 or y > 90:
     print (f"Your score is {y}, you go together like coke and mentos.")
 
-elif y == 40 and y <= 50:
+elif y >= 40 and y <= 50:
     print(f"Your score is {y}, you are alright together.")
 
 else:
