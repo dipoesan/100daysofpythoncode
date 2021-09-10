@@ -10,7 +10,7 @@
 
 # greet_with_name("Angela")
 
-# Functions with more than one input
+# Functions with more than one input.
 
 def greet_with(name, location):
     print(f"Hello {name}")
